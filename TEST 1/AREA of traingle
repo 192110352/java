@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args) {
+        double base = 5.0; 
+        double height = 7.0; 
+        double area;
+
+
+        area = 0.5 * base * height;
+
+
+        System.out.println("The area of the triangle is: " + area);
+    }
+}
